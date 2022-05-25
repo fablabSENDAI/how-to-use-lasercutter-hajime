@@ -28,7 +28,7 @@ HARUKAの**右上に表示されている電源ボタン**を長押しし、レ�
 ## 03.2 素材の設置
 <br>
 
-<img src="assets/03-2.JPG" width="320" alt="hi" class="inline"/><br>
+<img src="assets/03-2.jpg" width="320" alt="hi" class="inline"/><br>
 
 素材をベッド（加工テーブル）の上に置きます。<br>
 材料が薄い・軽い・反り返りのある場合は文鎮やマスキングテープなどで端を押さえて平らにします。<br>
